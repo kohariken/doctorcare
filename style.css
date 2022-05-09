@@ -356,7 +356,7 @@ body.menu-expanded button path {
 
   margin-inline: auto;
 
-  background-color: var(--boxstatscolor);
+  background-color: white;
   border: 1px solid var(--bodycolor);
   border-radius: 0.6rem;
 
@@ -434,7 +434,7 @@ body.menu-expanded button path {
 
 #about {
   text-align: left;
-  background-color: var(--boxstatscolor);
+  background-color: white;
 }
 
 #about h2 {
